@@ -2,11 +2,11 @@
 
 
 
-<div  align=center><font face="华文行楷" size=180>武汉理工大学</font></div>
+<div  align=center><font face="华文行楷" size=180>河南大学</font></div>
 
 
 
-<div align=center><h1>Python数据分析与可视化</h1></div>
+<div align=center><h1>Python</h1></div>
 
 <div align=center><h1>大 作 业</h1></div>
 
